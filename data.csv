@@ -1,0 +1,9 @@
+Age,Income,Student,Credit Rating,Buy Computer
+25,High,No,Fair,No
+30,High,No,Excellent,No
+35,Medium,No,Fair,Yes
+40,Low,No,Fair,Yes
+45,Low,Yes,Fair,Yes
+50,Low,Yes,Excellent,No
+55,Medium,Yes,Excellent,Yes
+60,High,No,Fair,No
